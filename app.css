@@ -1,0 +1,25 @@
+
+col-align {
+    text-align: center;
+
+}
+
+center {
+    margin: length;
+    position: relative;
+    top: auto;
+    right: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.background {
+    background-image: url("/background.jpg");
+ }
+
+row-space {
+    margin-bottom: App;
+}
+
+export default app.css;
